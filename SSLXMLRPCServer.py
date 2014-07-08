@@ -1,9 +1,9 @@
 """SSL XML-RPC Server.
 
 This module provides SSL-enabled versions of ``SimpleXMLRPCServer``
-and ``DocXMLRPCServer``.  Additionally, it also provides support optional
-support for HTTP Basic authentication and cross-origin resource sharing (CORS)
-requests.  No third-party libraries are required.
+and ``DocXMLRPCServer``.  Additionally, it also provides optional support for
+HTTP Basic authentication and cross-origin resource sharing (CORS) requests.
+No third-party libraries are required.
 
 """
 
